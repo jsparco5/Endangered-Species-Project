@@ -1,0 +1,44 @@
+/*
+* Programmer Name
+* Date
+* American Marten 
+*/
+
+
+/* The universal selector */
+ 
+h1 {text-align:center;
+    font family: "Arial", Times New Roman, serif;
+    color: red;
+    border-bottom: 5px solid green;
+
+}
+
+/* Put body attributes here */
+
+body { 
+    width: 950px;
+    margin: auto;
+
+}
+
+img {
+float:left;
+padding: 10px;
+border: 3px dashed black;
+margin: 9px;
+height: 180px;
+width: auto;
+}
+
+.block {
+width: 146px;
+height: 100px;
+float: left;
+border: none; 
+margin:11px 5px;
+}
+
+footer {
+margin-top: 20px;
+}
